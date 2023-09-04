@@ -5,7 +5,9 @@ This project sets up a web app in on a local machine using vagrant to configure 
 
 Services involved:
 Linux  Centos 
+Apache
 Nginix
 RabbitMQ
 Memcached
 MySql
+Wordpress
