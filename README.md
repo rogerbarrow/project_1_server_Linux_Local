@@ -11,3 +11,10 @@ RabbitMQ
 Memcached
 MySql
 Wordpress
+
+
+Prerequisites
+- Oracle VM Virtualbox
+- Vagrant
+- Vagrant plugins (vagrant-hostmanager)
+- Git bash or equivalent editor
